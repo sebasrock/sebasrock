@@ -7,7 +7,9 @@
 [![GitHub Sebasrock](https://img.shields.io/github/followers/sebasrock?label=follow&style=social)](https://github.com/sebasrock)
 [![Email: Email](https://img.shields.io/badge/sebastiansanchez88@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sebastiansanchez88@gmail.com)
 
-<img src="https://user-images.githubusercontent.com/7756615/88471522-12abf480-ced0-11ea-8c54-15a2b7f83079.png">
+   <img align='center' src="https://user-images.githubusercontent.com/7756615/88471705-d24d7600-ced1-11ea-84d1-a52af9afcf24.png" width="300">
+
+<img src="https://user-images.githubusercontent.com/7756615/88471522-12abf480-ced0-11ea-8c54-15a2b7f83079.png" width="900">
 
 ### My GitHub Stats
 
